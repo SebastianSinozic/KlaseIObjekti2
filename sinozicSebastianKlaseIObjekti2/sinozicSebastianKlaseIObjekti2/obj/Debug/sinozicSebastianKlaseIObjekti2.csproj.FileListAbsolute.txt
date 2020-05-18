@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\sinozicSebastianKlaseIObjekti2\sinozicSebastianKlaseIObjekti2\bin\Debug\sinozicSebastianKlaseIObjekti2.exe.config
+C:\Users\sebas\source\repos\sinozicSebastianKlaseIObjekti2\sinozicSebastianKlaseIObjekti2\bin\Debug\sinozicSebastianKlaseIObjekti2.exe
+C:\Users\sebas\source\repos\sinozicSebastianKlaseIObjekti2\sinozicSebastianKlaseIObjekti2\bin\Debug\sinozicSebastianKlaseIObjekti2.pdb
+C:\Users\sebas\source\repos\sinozicSebastianKlaseIObjekti2\sinozicSebastianKlaseIObjekti2\obj\Debug\sinozicSebastianKlaseIObjekti2.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\sinozicSebastianKlaseIObjekti2\sinozicSebastianKlaseIObjekti2\obj\Debug\sinozicSebastianKlaseIObjekti2.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\sinozicSebastianKlaseIObjekti2\sinozicSebastianKlaseIObjekti2\obj\Debug\sinozicSebastianKlaseIObjekti2.exe
+C:\Users\sebas\source\repos\sinozicSebastianKlaseIObjekti2\sinozicSebastianKlaseIObjekti2\obj\Debug\sinozicSebastianKlaseIObjekti2.pdb
